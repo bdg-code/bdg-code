@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my GitHub!
+
+## I am a budding programmer and data scientist, and currently I am working on educational data science.
 
 <!--
 **bdg-code/bdg-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
